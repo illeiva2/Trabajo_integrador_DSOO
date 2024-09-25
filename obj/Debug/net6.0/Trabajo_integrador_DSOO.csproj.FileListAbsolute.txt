@@ -1,0 +1,15 @@
+C:\Users\Illei\source\repos\Trabajo_integrador_DSOO\bin\Debug\net6.0\Trabajo_integrador_DSOO.exe
+C:\Users\Illei\source\repos\Trabajo_integrador_DSOO\bin\Debug\net6.0\Trabajo_integrador_DSOO.deps.json
+C:\Users\Illei\source\repos\Trabajo_integrador_DSOO\bin\Debug\net6.0\Trabajo_integrador_DSOO.runtimeconfig.json
+C:\Users\Illei\source\repos\Trabajo_integrador_DSOO\bin\Debug\net6.0\Trabajo_integrador_DSOO.dll
+C:\Users\Illei\source\repos\Trabajo_integrador_DSOO\bin\Debug\net6.0\Trabajo_integrador_DSOO.pdb
+C:\Users\Illei\source\repos\Trabajo_integrador_DSOO\obj\Debug\net6.0\Trabajo_integrador_DSOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Illei\source\repos\Trabajo_integrador_DSOO\obj\Debug\net6.0\Trabajo_integrador_DSOO.AssemblyInfoInputs.cache
+C:\Users\Illei\source\repos\Trabajo_integrador_DSOO\obj\Debug\net6.0\Trabajo_integrador_DSOO.AssemblyInfo.cs
+C:\Users\Illei\source\repos\Trabajo_integrador_DSOO\obj\Debug\net6.0\Trabajo_integrador_DSOO.csproj.CoreCompileInputs.cache
+C:\Users\Illei\source\repos\Trabajo_integrador_DSOO\obj\Debug\net6.0\Trabajo_integrador_DSOO.sourcelink.json
+C:\Users\Illei\source\repos\Trabajo_integrador_DSOO\obj\Debug\net6.0\Trabajo_integrador_DSOO.dll
+C:\Users\Illei\source\repos\Trabajo_integrador_DSOO\obj\Debug\net6.0\refint\Trabajo_integrador_DSOO.dll
+C:\Users\Illei\source\repos\Trabajo_integrador_DSOO\obj\Debug\net6.0\Trabajo_integrador_DSOO.pdb
+C:\Users\Illei\source\repos\Trabajo_integrador_DSOO\obj\Debug\net6.0\Trabajo_integrador_DSOO.genruntimeconfig.cache
+C:\Users\Illei\source\repos\Trabajo_integrador_DSOO\obj\Debug\net6.0\ref\Trabajo_integrador_DSOO.dll

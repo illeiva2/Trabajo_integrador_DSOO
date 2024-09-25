@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Illei\\source\\repos\\Trabajo_integrador_DSOO\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{920CA8F5-AB7A-41D9-A8D0-E503DC2B357B}|Trabajo_integrador_DSOO.csproj|c:\\users\\illei\\source\\repos\\trabajo_integrador_dsoo\\nosocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{920CA8F5-AB7A-41D9-A8D0-E503DC2B357B}|Trabajo_integrador_DSOO.csproj|solutionrelative:nosocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{920CA8F5-AB7A-41D9-A8D0-E503DC2B357B}|Trabajo_integrador_DSOO.csproj|c:\\users\\illei\\source\\repos\\trabajo_integrador_dsoo\\pagos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{920CA8F5-AB7A-41D9-A8D0-E503DC2B357B}|Trabajo_integrador_DSOO.csproj|solutionrelative:pagos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{920CA8F5-AB7A-41D9-A8D0-E503DC2B357B}|Trabajo_integrador_DSOO.csproj|c:\\users\\illei\\source\\repos\\trabajo_integrador_dsoo\\socio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{920CA8F5-AB7A-41D9-A8D0-E503DC2B357B}|Trabajo_integrador_DSOO.csproj|solutionrelative:socio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{920CA8F5-AB7A-41D9-A8D0-E503DC2B357B}|Trabajo_integrador_DSOO.csproj|c:\\users\\illei\\source\\repos\\trabajo_integrador_dsoo\\nosocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{920CA8F5-AB7A-41D9-A8D0-E503DC2B357B}|Trabajo_integrador_DSOO.csproj|solutionrelative:nosocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{920CA8F5-AB7A-41D9-A8D0-E503DC2B357B}|Trabajo_integrador_DSOO.csproj|c:\\users\\illei\\source\\repos\\trabajo_integrador_dsoo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -17,6 +17,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{920CA8F5-AB7A-41D9-A8D0-E503DC2B357B}|Trabajo_integrador_DSOO.csproj|c:\\users\\illei\\source\\repos\\trabajo_integrador_dsoo\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{920CA8F5-AB7A-41D9-A8D0-E503DC2B357B}|Trabajo_integrador_DSOO.csproj|solutionrelative:cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{920CA8F5-AB7A-41D9-A8D0-E503DC2B357B}|Trabajo_integrador_DSOO.csproj|c:\\users\\illei\\source\\repos\\trabajo_integrador_dsoo\\actividades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{920CA8F5-AB7A-41D9-A8D0-E503DC2B357B}|Trabajo_integrador_DSOO.csproj|solutionrelative:actividades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{920CA8F5-AB7A-41D9-A8D0-E503DC2B357B}|Trabajo_integrador_DSOO.csproj|c:\\users\\illei\\source\\repos\\trabajo_integrador_dsoo\\socio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{920CA8F5-AB7A-41D9-A8D0-E503DC2B357B}|Trabajo_integrador_DSOO.csproj|solutionrelative:socio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,25 +39,51 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Pagos.cs",
+              "DocumentMoniker": "C:\\Users\\Illei\\source\\repos\\Trabajo_integrador_DSOO\\Pagos.cs",
+              "RelativeDocumentMoniker": "Pagos.cs",
+              "ToolTip": "C:\\Users\\Illei\\source\\repos\\Trabajo_integrador_DSOO\\Pagos.cs",
+              "RelativeToolTip": "Pagos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T21:49:03.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Actividades.cs",
+              "DocumentMoniker": "C:\\Users\\Illei\\source\\repos\\Trabajo_integrador_DSOO\\Actividades.cs",
+              "RelativeDocumentMoniker": "Actividades.cs",
+              "ToolTip": "C:\\Users\\Illei\\source\\repos\\Trabajo_integrador_DSOO\\Actividades.cs",
+              "RelativeToolTip": "Actividades.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T13:30:02.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "NoSocio.cs",
               "DocumentMoniker": "C:\\Users\\Illei\\source\\repos\\Trabajo_integrador_DSOO\\NoSocio.cs",
               "RelativeDocumentMoniker": "NoSocio.cs",
               "ToolTip": "C:\\Users\\Illei\\source\\repos\\Trabajo_integrador_DSOO\\NoSocio.cs",
               "RelativeToolTip": "NoSocio.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAswBkAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-24T21:44:42.615Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "Socio.cs",
               "DocumentMoniker": "C:\\Users\\Illei\\source\\repos\\Trabajo_integrador_DSOO\\Socio.cs",
               "RelativeDocumentMoniker": "Socio.cs",
               "ToolTip": "C:\\Users\\Illei\\source\\repos\\Trabajo_integrador_DSOO\\Socio.cs",
               "RelativeToolTip": "Socio.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-24T21:07:24.595Z",
               "EditorCaption": ""
@@ -62,7 +96,7 @@
               "RelativeDocumentMoniker": "cliente.cs",
               "ToolTip": "C:\\Users\\Illei\\source\\repos\\Trabajo_integrador_DSOO\\cliente.cs",
               "RelativeToolTip": "cliente.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABsAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-24T20:39:58.355Z",
               "EditorCaption": ""
@@ -75,7 +109,7 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\Illei\\source\\repos\\Trabajo_integrador_DSOO\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-19T13:25:54.331Z",
               "EditorCaption": ""

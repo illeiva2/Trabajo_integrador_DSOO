@@ -13,11 +13,19 @@ namespace Trabajo_integrador_DSOO
         private string? email;
         private string? dni;
         private string? telefono;
-        
+        public Cliente(string nombre, string apellido, string email, string dni, string telefono)
+        {
+            this.nombre = nombre;
+            this.apellido = apellido;
+            this.email = email;
+            this.dni = dni;
+            this.telefono = telefono;
+        }
         public string? Nombre { get { return nombre; } set { nombre = value; } }
         public string? Apellido { get { return apellido; } set { apellido = value; } }
         public string? Email { get { return email; } set { email = value; } }
         public string? Dni { get { return dni; } set { dni = value; } }
         public string? Telefono { get { return telefono; } set { telefono = value; } }
+
     }
 }
