@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\Illei\\source\\repos\\Trabajo_integrador_DSOO\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{920CA8F5-AB7A-41D9-A8D0-E503DC2B357B}|Trabajo_integrador_DSOO.csproj|c:\\users\\illei\\source\\repos\\trabajo_integrador_dsoo\\socio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{920CA8F5-AB7A-41D9-A8D0-E503DC2B357B}|Trabajo_integrador_DSOO.csproj|solutionrelative:socio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{920CA8F5-AB7A-41D9-A8D0-E503DC2B357B}|Trabajo_integrador_DSOO.csproj|c:\\users\\illei\\source\\repos\\trabajo_integrador_dsoo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{920CA8F5-AB7A-41D9-A8D0-E503DC2B357B}|Trabajo_integrador_DSOO.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{920CA8F5-AB7A-41D9-A8D0-E503DC2B357B}|Trabajo_integrador_DSOO.csproj|c:\\users\\illei\\source\\repos\\trabajo_integrador_dsoo\\pagos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{920CA8F5-AB7A-41D9-A8D0-E503DC2B357B}|Trabajo_integrador_DSOO.csproj|solutionrelative:pagos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -11,20 +19,12 @@
       "RelativeMoniker": "D:0:0:{920CA8F5-AB7A-41D9-A8D0-E503DC2B357B}|Trabajo_integrador_DSOO.csproj|solutionrelative:nosocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{920CA8F5-AB7A-41D9-A8D0-E503DC2B357B}|Trabajo_integrador_DSOO.csproj|c:\\users\\illei\\source\\repos\\trabajo_integrador_dsoo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{920CA8F5-AB7A-41D9-A8D0-E503DC2B357B}|Trabajo_integrador_DSOO.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{920CA8F5-AB7A-41D9-A8D0-E503DC2B357B}|Trabajo_integrador_DSOO.csproj|c:\\users\\illei\\source\\repos\\trabajo_integrador_dsoo\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{920CA8F5-AB7A-41D9-A8D0-E503DC2B357B}|Trabajo_integrador_DSOO.csproj|solutionrelative:cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{920CA8F5-AB7A-41D9-A8D0-E503DC2B357B}|Trabajo_integrador_DSOO.csproj|c:\\users\\illei\\source\\repos\\trabajo_integrador_dsoo\\actividades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{920CA8F5-AB7A-41D9-A8D0-E503DC2B357B}|Trabajo_integrador_DSOO.csproj|solutionrelative:actividades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{920CA8F5-AB7A-41D9-A8D0-E503DC2B357B}|Trabajo_integrador_DSOO.csproj|c:\\users\\illei\\source\\repos\\trabajo_integrador_dsoo\\socio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{920CA8F5-AB7A-41D9-A8D0-E503DC2B357B}|Trabajo_integrador_DSOO.csproj|solutionrelative:socio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,37 +34,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Pagos.cs",
               "DocumentMoniker": "C:\\Users\\Illei\\source\\repos\\Trabajo_integrador_DSOO\\Pagos.cs",
               "RelativeDocumentMoniker": "Pagos.cs",
               "ToolTip": "C:\\Users\\Illei\\source\\repos\\Trabajo_integrador_DSOO\\Pagos.cs",
               "RelativeToolTip": "Pagos.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA1AAAAAAAAAA==",
+              "ViewState": "AgIAACAAAAAAAAAAAAAAwAsAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-25T21:49:03.153Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Actividades.cs",
               "DocumentMoniker": "C:\\Users\\Illei\\source\\repos\\Trabajo_integrador_DSOO\\Actividades.cs",
               "RelativeDocumentMoniker": "Actividades.cs",
               "ToolTip": "C:\\Users\\Illei\\source\\repos\\Trabajo_integrador_DSOO\\Actividades.cs",
               "RelativeToolTip": "Actividades.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAHAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-25T13:30:02.835Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "NoSocio.cs",
               "DocumentMoniker": "C:\\Users\\Illei\\source\\repos\\Trabajo_integrador_DSOO\\NoSocio.cs",
               "RelativeDocumentMoniker": "NoSocio.cs",
@@ -77,7 +77,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "Socio.cs",
               "DocumentMoniker": "C:\\Users\\Illei\\source\\repos\\Trabajo_integrador_DSOO\\Socio.cs",
               "RelativeDocumentMoniker": "Socio.cs",
@@ -90,7 +90,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "cliente.cs",
               "DocumentMoniker": "C:\\Users\\Illei\\source\\repos\\Trabajo_integrador_DSOO\\cliente.cs",
               "RelativeDocumentMoniker": "cliente.cs",
@@ -103,7 +103,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Illei\\source\\repos\\Trabajo_integrador_DSOO\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
