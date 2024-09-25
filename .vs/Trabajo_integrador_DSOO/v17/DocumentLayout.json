@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Ignacio Toledo\\source\\repos\\Trabajo_integrador_DSOO\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{920CA8F5-AB7A-41D9-A8D0-E503DC2B357B}|Trabajo_integrador_DSOO.csproj|c:\\users\\ignacio toledo\\source\\repos\\trabajo_integrador_dsoo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{920CA8F5-AB7A-41D9-A8D0-E503DC2B357B}|Trabajo_integrador_DSOO.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{920CA8F5-AB7A-41D9-A8D0-E503DC2B357B}|Trabajo_integrador_DSOO.csproj|c:\\users\\ignacio toledo\\source\\repos\\trabajo_integrador_dsoo\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{920CA8F5-AB7A-41D9-A8D0-E503DC2B357B}|Trabajo_integrador_DSOO.csproj|solutionrelative:cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{920CA8F5-AB7A-41D9-A8D0-E503DC2B357B}|Trabajo_integrador_DSOO.csproj|c:\\users\\ignacio toledo\\source\\repos\\trabajo_integrador_dsoo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{920CA8F5-AB7A-41D9-A8D0-E503DC2B357B}|Trabajo_integrador_DSOO.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{920CA8F5-AB7A-41D9-A8D0-E503DC2B357B}|Trabajo_integrador_DSOO.csproj|c:\\users\\ignacio toledo\\source\\repos\\trabajo_integrador_dsoo\\socio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{920CA8F5-AB7A-41D9-A8D0-E503DC2B357B}|Trabajo_integrador_DSOO.csproj|solutionrelative:socio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{920CA8F5-AB7A-41D9-A8D0-E503DC2B357B}|Trabajo_integrador_DSOO.csproj|c:\\users\\ignacio toledo\\source\\repos\\trabajo_integrador_dsoo\\pagos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -17,10 +21,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{920CA8F5-AB7A-41D9-A8D0-E503DC2B357B}|Trabajo_integrador_DSOO.csproj|c:\\users\\ignacio toledo\\source\\repos\\trabajo_integrador_dsoo\\actividades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{920CA8F5-AB7A-41D9-A8D0-E503DC2B357B}|Trabajo_integrador_DSOO.csproj|solutionrelative:actividades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{920CA8F5-AB7A-41D9-A8D0-E503DC2B357B}|Trabajo_integrador_DSOO.csproj|c:\\users\\ignacio toledo\\source\\repos\\trabajo_integrador_dsoo\\socio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{920CA8F5-AB7A-41D9-A8D0-E503DC2B357B}|Trabajo_integrador_DSOO.csproj|solutionrelative:socio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{920CA8F5-AB7A-41D9-A8D0-E503DC2B357B}|Trabajo_integrador_DSOO.csproj|c:\\users\\ignacio toledo\\source\\repos\\trabajo_integrador_dsoo\\nosocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -34,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,7 +46,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Pagos.cs",
               "DocumentMoniker": "C:\\Users\\Ignacio Toledo\\source\\repos\\Trabajo_integrador_DSOO\\Pagos.cs",
               "RelativeDocumentMoniker": "Pagos.cs",
@@ -54,12 +54,11 @@
               "RelativeToolTip": "Pagos.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-25T21:49:03.153Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-25T21:49:03.153Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Actividades.cs",
               "DocumentMoniker": "C:\\Users\\Ignacio Toledo\\source\\repos\\Trabajo_integrador_DSOO\\Actividades.cs",
               "RelativeDocumentMoniker": "Actividades.cs",
@@ -67,8 +66,7 @@
               "RelativeToolTip": "Actividades.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-25T13:30:02.835Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-25T13:30:02.835Z"
             },
             {
               "$type": "Document",
@@ -84,7 +82,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "Socio.cs",
               "DocumentMoniker": "C:\\Users\\Ignacio Toledo\\source\\repos\\Trabajo_integrador_DSOO\\Socio.cs",
               "RelativeDocumentMoniker": "Socio.cs",
@@ -97,26 +95,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "cliente.cs",
               "DocumentMoniker": "C:\\Users\\Ignacio Toledo\\source\\repos\\Trabajo_integrador_DSOO\\cliente.cs",
               "RelativeDocumentMoniker": "cliente.cs",
               "ToolTip": "C:\\Users\\Ignacio Toledo\\source\\repos\\Trabajo_integrador_DSOO\\cliente.cs",
               "RelativeToolTip": "cliente.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAwwF0AAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-24T20:39:58.355Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Ignacio Toledo\\source\\repos\\Trabajo_integrador_DSOO\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\Ignacio Toledo\\source\\repos\\Trabajo_integrador_DSOO\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAQwCIAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-19T13:25:54.331Z",
               "EditorCaption": ""

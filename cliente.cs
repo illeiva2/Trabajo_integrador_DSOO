@@ -8,7 +8,7 @@ namespace Trabajo_integrador_DSOO
 {
     internal class Cliente
     {
-        // Definicion de atributos
+        // Definición de atributos
         private string? nombre;
         private string? apellido;
         private string? email;
@@ -25,7 +25,7 @@ namespace Trabajo_integrador_DSOO
             this.telefono = telefono;
         }
 
-        // Propiedad
+        // Propiedades
         public string? Nombre { get { return nombre; } set { nombre = value; } }
         public string? Apellido { get { return apellido; } set { apellido = value; } }
         public string? Email { get { return email; } set { email = value; } }
@@ -37,6 +37,7 @@ namespace Trabajo_integrador_DSOO
         {
             Console.WriteLine($"Nombre: {nombre}, Apellido: {apellido}, Email: {email}, DNI: {dni}, Teléfono: {telefono}");
         }
+
         // Método para registrar un nuevo cliente
         public static Cliente RegistrarCliente()
         {
@@ -47,7 +48,7 @@ namespace Trabajo_integrador_DSOO
             if (string.IsNullOrEmpty(nombre))
             {
                 Console.WriteLine("El nombre no puede estar vacío.");
-                return null; 
+                return null;
             }
 
             Console.Write("Apellido: ");
@@ -55,7 +56,7 @@ namespace Trabajo_integrador_DSOO
             if (string.IsNullOrEmpty(apellido))
             {
                 Console.WriteLine("El apellido no puede estar vacío.");
-                return null; 
+                return null;
             }
 
             Console.Write("Email: ");
@@ -63,7 +64,7 @@ namespace Trabajo_integrador_DSOO
             if (string.IsNullOrEmpty(email))
             {
                 Console.WriteLine("El email no puede estar vacío.");
-                return null; 
+                return null;
             }
 
             Console.Write("DNI: ");
@@ -71,7 +72,7 @@ namespace Trabajo_integrador_DSOO
             if (string.IsNullOrEmpty(dni))
             {
                 Console.WriteLine("El DNI no puede estar vacío.");
-                return null; 
+                return null;
             }
 
             Console.Write("Teléfono: ");
@@ -79,10 +80,16 @@ namespace Trabajo_integrador_DSOO
             if (string.IsNullOrEmpty(telefono))
             {
                 Console.WriteLine("El teléfono no puede estar vacío.");
-                return null; 
+                return null;
             }
 
             return new Cliente(nombre, apellido, email, dni, telefono);
         }
-    }
+
+        // Método para verificar si un cliente ya existe
+        public static bool ExisteCliente(List<Cliente> listaClientes, string dni)
+        {
+            return listaClientes.Exists(c => c.Dni == dni);
+        }
+    }   
 }

@@ -2,22 +2,29 @@
 
 namespace Trabajo_integrador_DSOO
 {
-    internal class Program
+    internal class Programa
     {
-        static List<Cliente> listaClientes = new List<Cliente>();
-
         static void Main(string[] args)
         {
+            List<Cliente> listaClientes = new List<Cliente>();
             bool continuar = true;
 
             while (continuar)
             {
-                // Registrar cliente a partir de la entrada del usuario
                 Cliente nuevoCliente = Cliente.RegistrarCliente();
                 if (nuevoCliente != null)
                 {
-                    listaClientes.Add(nuevoCliente);
-                    Console.WriteLine("Cliente registrado exitosamente.\n");
+                    // Verificar si el cliente ya existe
+                    if (Cliente.ExisteCliente(listaClientes, nuevoCliente.Dni))
+                    {
+                        Console.WriteLine("El cliente ya está registrado.");
+                    }
+                    else
+                    {
+                        // Agregar nuevo cliente a la lista
+                        listaClientes.Add(nuevoCliente);
+                        Console.WriteLine("Cliente registrado exitosamente.");
+                    }
                 }
 
                 Console.WriteLine("¿Desea registrar otro cliente? (s/n)");
@@ -27,6 +34,7 @@ namespace Trabajo_integrador_DSOO
                     continuar = false;
                 }
             }
+
             // Mostrar todos los clientes registrados
             Console.WriteLine("Clientes registrados:");
             foreach (var cliente in listaClientes)

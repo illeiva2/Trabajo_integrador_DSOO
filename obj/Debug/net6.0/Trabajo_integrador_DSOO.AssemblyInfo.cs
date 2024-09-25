@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Trabajo_integrador_DSOO")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d675b8dc541b3366a33e5ab9aeca5b1e3996a248")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4a543c16998e5d058e033c956616ca6903388ec7")]
 [assembly: System.Reflection.AssemblyProductAttribute("Trabajo_integrador_DSOO")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Trabajo_integrador_DSOO")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
