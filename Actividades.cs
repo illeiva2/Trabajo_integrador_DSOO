@@ -11,7 +11,7 @@ namespace Trabajo_integrador_DSOO
         private string nombre;
         private int costo;
         private int capacidad;
-       public int Costo
+        public int Costo
         {
             get { return costo; }
             set { costo = value; }
