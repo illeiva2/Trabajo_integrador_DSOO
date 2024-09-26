@@ -1,26 +1,37 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Trabajo_integrador_DSOO
 {
-    internal class Socio : Cliente
+    internal class Socio
     {
-        private int socioId;
-        private DateTime fecha_inscripcion;
-        private DateTime fecha_finalizacion;
-        private bool estado_cuota;
+        private string? nombre;
+        private string? apellido;
+        private string? email;
+        private int? dni;
+        private string? telefono;
+        private List<Actividades> actividades; // Lista de actividades en las que está inscrito el socio
 
-        public Socio(string nombre, string apellido, string email, string dni, string telefono) : base(nombre, apellido, email, dni, telefono)
+        public Socio(string nombre, string apellido, string email, int dni, string telefono)
         {
-
+            this.nombre = nombre;
+            this.apellido = apellido;
+            this.email = email;
+            this.dni = dni;
+            this.telefono = telefono;
+            actividades = new List<Actividades>(); // Inicializar la lista de actividades
         }
 
-        public int SocioId { get { return socioId; } set { socioId = value; } }
-        public DateTime FechaInscripcion { get { return fecha_inscripcion; } set { fecha_inscripcion = value; } }
-        public DateTime FechaFinalizacion { get { return fecha_finalizacion; } set { fecha_finalizacion = value; } }
-        public bool EstadoCuota { get { return estado_cuota; } set { estado_cuota = value; } }
+        public string? Nombre { get { return nombre; } set { nombre = value; } }
+        public string? Apellido { get { return apellido; } set { apellido = value; } }
+        public string? Email { get { return email; } set { email = value; } }
+        public int? Dni { get { return dni; } set { dni = value; } }
+        public string? Telefono { get { return telefono; } set { telefono = value; } }
+        public List<Actividades> Actividades { get { return actividades; } } // Propiedad para acceder a la lista de actividades
+
+        public void MostrarInfo()
+        {
+            Console.WriteLine($"Nombre: {nombre}, Apellido: {apellido}, Email: {email}, DNI: {dni}, Teléfono: {telefono}");
+        }
     }
 }

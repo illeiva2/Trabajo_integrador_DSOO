@@ -8,10 +8,18 @@ namespace Trabajo_integrador_DSOO
 {
     internal class Actividades
     {
+        // Definición de atributos
         private string nombre;
         private int costo;
         private int capacidad;
-       public int Costo
+
+        // Propiedades
+        public string Nombre
+        {
+            get { return nombre; }
+        }
+
+        public int Costo
         {
             get { return costo; }
             set { costo = value; }
@@ -22,10 +30,7 @@ namespace Trabajo_integrador_DSOO
             get { return capacidad; }
             set { capacidad = value; }
         }
-        public string Actividad
-        {
-            get { return nombre; }
-        }
+
         public Actividades(string nombre, int costo, int capacidad)
         {
             this.nombre = nombre;
